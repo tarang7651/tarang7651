@@ -16,10 +16,12 @@
 
 - 💼 3.1+ Years of Experience in Odoo & Python Development
 - 🔥 Specialized in Odoo v17 → v19 Migration & Customization
-- ⚡ Backend Engineer focused on scalable SaaS & ERP systems
+- ⚡ Backend Engineer focused on scalable ERP & SaaS systems
 - 🛠 Experienced in Django, DRF, PostgreSQL & API Integrations
 - 🤖 Worked with OpenAI GPT, WhatsApp APIs, Postmark & 3CX VoIP
 - 📈 Optimized PostgreSQL & ORM queries for enterprise applications
+- 🏭 Built manufacturing workflows according to client-specific requirements
+- 🏥 Worked on Health Management Systems with custom enterprise workflows
 - 🎯 Passionate about backend architecture & automation systems
 
 ---
@@ -32,61 +34,121 @@
 
 ---
 
-# 🔥 GitHub Stats
+# 🚀 Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarang7651&show_icons=true&theme=tokyonight" />
-</p>
+## Visitor Management System (VMS)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tarang7651&theme=tokyonight" />
-</p>
+A backend-powered Visitor Management System built using Django, Django REST Framework, and PostgreSQL.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarang7651&layout=compact&theme=tokyonight" />
-</p>
-
----
-## 🚀 Featured Project
-
-### Visitor Management System
-
-🔗 Repository:
+🔗 Repository  
 https://github.com/tarang7651/visitor-management-system
 
-🌐 Live Demo:
+🌐 Live Demo  
 https://vms-backend-lc9h.onrender.com/
----
 
-# 🔒 Enterprise ERP Projects
-
-## 🏭 ERP Manufacturing Suite
-
-- Manufacturing workflow automation
-- Inventory management
-- Custom Odoo modules
-- Dynamic QWeb reports
-- API integrations
-- PostgreSQL optimization
+# 🎥 Project Walkthrough
+https://github.com/user-attachments/assets/5f35b4ff-ae35-4d07-b761-2e8b767fcce5
 
 ---
 
-## 📧 Mass Mailing & CRM Automation
+## ✨ Features
 
-- Email marketing automation
-- WhatsApp integrations
-- OpenAI GPT integration
-- CRM workflow enhancement
-- Subscription management
+- Visitor entry & management
+- Secure authentication system
+- RESTful API architecture
+- PostgreSQL database integration
+- Real-time backend processing
+- Role-based access management
+- Production deployment on Render
 
 ---
 
-## ☎️ 3CX VoIP Integration
+## 🛠 Tech Used
 
-- Auto lead generation from calls
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- REST APIs
+
+---
+
+# 🔌 API Example
+
+```bash
+GET /api/visitors/
+```
+
+## Example Response
+
+```json
+{
+  "id": 1,
+  "name": "John Doe",
+  "purpose": "Meeting",
+  "check_in": "2026-05-20T10:30:00Z"
+}
+```
+
+---
+
+# 🔒 Enterprise Experience
+
+## 🏥 Health Management System
+
+Worked on a healthcare management solution customized according to client-specific business requirements.
+
+### Features
+- Patient management workflows
+- Appointment handling
+- Medical record management
+- Role-based access control
+- Custom reports & automation
+
+### Tech Used
+- Odoo
+- Python
+- PostgreSQL
+- REST APIs
+
+---
+
+## 🏭 Manufacturing Module Customization
+
+Developed and customized manufacturing workflows according to client business requirements.
+
+### Work Included
+- Production workflow customization
+- Inventory & warehouse integration
+- BOM management
+- Automated business workflows
+- Dynamic reports & dashboards
+
+### Tech Used
+- Odoo
+- Python
+- PostgreSQL
+- QWeb
+- JavaScript
+
+---
+
+## ☎️ CRM & VoIP Automation
+
+Integrated enterprise communication systems with ERP workflows.
+
+### Highlights
+- Auto lead generation from incoming calls
 - CRM synchronization
-- Real-time webhook handling
+- Webhook integrations
+- Real-time event handling
 - Call metadata tracking
+
+### Integrations
+- 3CX VoIP
+- WhatsApp APIs
+- OpenAI GPT
+- Postmark
 
 ---
 
@@ -96,7 +158,7 @@ https://vms-backend-lc9h.onrender.com/
 - 🏅 Perfect Customization Badge
 - 🚀 Migrated 150+ Odoo Modules
 - ⚡ Built 20+ Enterprise Custom Modules
-- 📈 Improved report performance by 25%
+- 📈 Improved report performance through ORM & PostgreSQL optimization
 
 ---
 
@@ -117,8 +179,8 @@ https://vms-backend-lc9h.onrender.com/
 - REST API Development
 - JWT Authentication
 - Role-Based Access Control
-- Celery
 - PostgreSQL Optimization
+- Backend Architecture
 
 ---
 
@@ -129,21 +191,7 @@ https://vms-backend-lc9h.onrender.com/
 - Postmark
 - 3CX VoIP
 - Webhooks
-- Drupal
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tarang7651&theme=tokyonight" />
-</p>
+- REST APIs
 
 ---
 
@@ -165,7 +213,7 @@ https://vms-backend-lc9h.onrender.com/
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/tarang-kushwaha">
+<a href="https://www.linkedin.com/in/tarang-kushwaha/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -179,6 +227,6 @@ https://vms-backend-lc9h.onrender.com/
 
 <div align="center">
 
-### ⭐ "Building scalable ERP & backend systems with Python."
+### ⭐ Building scalable ERP & backend systems with Python.
 
 </div>
