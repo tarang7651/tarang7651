@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Tarang Kushwaha
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Odoo+ERP+Developer;Python+Backend+Engineer;Django+Developer;REST+API+Specialist;PostgreSQL+Developer;SaaS+Builder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Odoo+ERP+Developer;Python+Backend+Engineer;Django+Developer;AI+Workflow+Automation+Specialist;REST+API+Engineer)](https://git.io/typing-svg)
 
-### 🚀 Odoo ERP Developer | Django Backend Engineer | AI-Powered SaaS Systems
+### 🚀 Odoo ERP Developer | Backend Engineer | AI Workflow Automation Specialist
 
 ![](https://komarev.com/ghpvc/?username=tarang7651&color=blue)
 
@@ -14,15 +14,12 @@
 
 # 🚀 About Me
 
-- 💼 3.1+ Years of Experience in Odoo & Python Development
-- 🔥 Specialized in Odoo v17 → v19 Migration & Enterprise Customization
-- ⚡ Backend Engineer focused on scalable ERP & SaaS systems
-- 🛠 Experienced in Django, DRF, PostgreSQL & API Integrations
-- 🤖 Worked with OpenAI GPT, OpenRouter, WhatsApp APIs, Postmark & 3CX VoIP
-- 📈 Optimized PostgreSQL & ORM queries for enterprise-scale applications
-- 🏭 Built manufacturing workflows according to client-specific requirements
-- 🏥 Worked on enterprise Health Management Systems
-- 🎯 Passionate about backend architecture, automation & AI systems
+- 💼 3+ Years of Experience in Odoo & Python Development
+- ⚡ Specialized in ERP Automation, Backend APIs & AI Integrations
+- 🛠 Experienced with Odoo, Django, DRF, PostgreSQL & REST APIs
+- 🤖 Built AI-powered ERP workflows using OpenAI & OpenRouter
+- 📈 Optimized enterprise systems for scalability & automation
+- 🚀 Passionate about backend architecture & SaaS engineering
 
 ---
 
@@ -42,11 +39,64 @@
 
 # 🚀 Featured Projects
 
+# 🤖 AI-Powered Odoo Integration Suite
+
+AI-driven ERP enhancement platform built using Odoo, Python, OpenAI GPT & SpeechRecognition.
+
+🔹 Embedded OpenAI GPT into Odoo CRM & backend editor for intelligent lead summaries, smart reply suggestions, and context-aware content generation.
+
+🔹 Engineered real-time VoIP call transcription using Python SpeechRecognition, automatically saving structured transcripts into CRM records.
+
+🔹 Reduced manual drafting & note-taking efforts through AI-assisted workflows and automation.
+
+### Tech Used
+
+- Odoo
+- Python
+- OpenAI GPT
+- SpeechRecognition
+- REST APIs
+- PostgreSQL
+
+---
+
+# 🔥 OpenRouter Mail AI Studio
+
+AI-powered email generation & marketing enhancement platform built for Odoo using OpenRouter integration.
+
+🔗 Repository  
+https://github.com/tarang7651/openrouter_mail_ai
+
+# 🎥 Project Walkthrough
+https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
+
+---
+
+## ✨ Highlights
+
+- Integrated 300+ AI models directly into Odoo Email Marketing workflows
+- Built AI-powered email template generation inside Mail Composer
+- Added dynamic marketing image generation using Unsplash API
+- Created reusable email components & smart campaign workflows
+- Enhanced ERP-integrated customer engagement automation
+
+### Tech Used
+
+- Odoo
+- Python
+- OWL JS
+- PostgreSQL
+- OpenRouter API
+- Unsplash API
+- REST APIs
+- QWeb
+- JavaScript
+
 ---
 
 # 🏢 Visitor Management System (VMS)
 
-A backend-powered Visitor Management System built using Django, Django REST Framework, and PostgreSQL.
+Backend-powered Visitor Management System built using Django, Django REST Framework, and PostgreSQL.
 
 🔗 Repository  
 https://github.com/tarang7651/visitor-management-system
@@ -65,13 +115,10 @@ https://github.com/user-attachments/assets/5f35b4ff-ae35-4d07-b761-2e8b767fcce5
 - Secure authentication system
 - RESTful API architecture
 - PostgreSQL database integration
-- Real-time backend processing
 - Role-based access management
 - Production deployment on Render
 
----
-
-## 🛠 Tech Used
+### Tech Used
 
 - Python
 - Django
@@ -81,178 +128,99 @@ https://github.com/user-attachments/assets/5f35b4ff-ae35-4d07-b761-2e8b767fcce5
 
 ---
 
-# 🔌 API Example
+# 📝 Personal Blog Platform
 
-```bash
-GET /api/visitors/
-```
+Full-stack blogging platform built using Django, DRF & PostgreSQL.
 
-## Example Response
+🔹 Designed and developed RESTful APIs with JWT authentication and role-based access control.
 
-```json
-{
-  "id": 1,
-  "name": "John Doe",
-  "purpose": "Meeting",
-  "check_in": "2026-05-20T10:30:00Z"
-}
-```
+🔹 Implemented admin, author & reader workflows using Django MVT architecture.
 
----
+🔹 Deployed on PythonAnywhere (Linux) while managing server configuration, static files, Gunicorn & PostgreSQL migrations.
 
-# 🤖 OpenRouter Mail AI Studio
+### Tech Used
 
-An AI-powered email generation & marketing enhancement platform built for Odoo using OpenRouter integration.
-
-This module integrates **300+ AI models** directly into Odoo Mail Composer & Email Marketing workflows, enabling businesses to generate high-converting email templates using modern LLMs like GPT-4o, Claude, Gemini, and Llama.
-
-🔗 Repository  
-https://github.com/tarang7651/openrouter_mail_ai
-
-# 🎥 Project Walkthrough
-https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
-
----
-
-## ✨ Features
-
-- ✨ AI-powered email template generation
-- 📧 Smart campaign generation inside Email Marketing
-- 🔀 Support for 300+ OpenRouter AI models
-- 🎯 Multiple tone selections
-- ⚙️ Centralized API configuration in Odoo Settings
-- 🖼 Dynamic marketing images using Unsplash API
-- 🧠 AI-enhanced mail compose experience
-- 🎨 Styled HTML email generation
-- 🚀 Built for scalable SaaS & ERP workflows
-
----
-
-## 🛠 Tech Used
-
-- Odoo
-- Python
-- OWL JS
+- Django
+- Django REST Framework
 - PostgreSQL
-- OpenRouter API
-- Unsplash API
-- REST APIs
-- QWeb
-- JavaScript
+- JWT Authentication
+- Linux
+- PythonAnywhere
 
 ---
 
-## 🔥 Supported AI Models
+# ☎️ Caribbean Sign – 3CX VoIP Integration
 
-- GPT-4o
-- Claude
-- Gemini
-- DeepSeek
-- Llama
-- Mistral
-- 300+ OpenRouter models
+Enterprise CRM & VoIP automation system built using Odoo and 3CX integration.
 
----
+🔹 Unified 3CX VoIP with Odoo CRM to auto-create and assign leads from incoming calls.
 
-## ⚡ Enterprise Use Cases
+🔹 Mapped call metadata including duration, caller ID & timestamps directly into CRM records.
 
-- AI-powered email marketing
-- Automated campaign generation
-- Smart sales outreach
-- ERP-integrated content generation
-- AI-assisted customer engagement
-- Marketing workflow automation
-
----
-
-## 🧩 Odoo Module Information
-
-```python
-{
-    'name': 'OpenRouter Mail AI Studio',
-    'version': '1.0.0',
-    'category': 'Marketing/Email Marketing',
-    'summary': 'Generate AI-powered email templates via OpenRouter inside Mail Composer & Email Marketing',
-}
-```
-
----
-
-# 🔒 Enterprise Experience
-
-## 🏥 Health Management System
-
-Worked on a healthcare management solution customized according to client-specific business requirements.
-
-### Features
-
-- Patient management workflows
-- Appointment handling
-- Medical record management
-- Role-based access control
-- Custom reports & automation
+🔹 Improved sales follow-up accuracy and eliminated manual lead entry workflows.
 
 ### Tech Used
 
 - Odoo
 - Python
-- PostgreSQL
 - REST APIs
-
----
-
-## 🏭 Manufacturing Module Customization
-
-Developed and customized manufacturing workflows according to client business requirements.
-
-### Work Included
-
-- Production workflow customization
-- Inventory & warehouse integration
-- BOM management
-- Automated business workflows
-- Dynamic reports & dashboards
-
-### Tech Used
-
-- Odoo
-- Python
-- PostgreSQL
-- QWeb
-- JavaScript
-
----
-
-## ☎️ CRM & VoIP Automation
-
-Integrated enterprise communication systems with ERP workflows.
-
-### Highlights
-
-- Auto lead generation from incoming calls
-- CRM synchronization
-- Webhook integrations
-- Real-time event handling
-- Call metadata tracking
-
-### Integrations
-
 - 3CX VoIP
-- WhatsApp APIs
-- OpenAI GPT
-- Postmark
+- PostgreSQL
+- CI/CD
+
+---
+
+# 🏢 Sahitya Bhawan – Odoo ERP Customization
+
+Enterprise-grade ERP customization and automation for publishing workflows.
+
+🔹 Built reusable financial year-based filters for cross-module reporting & QWeb reports.
+
+🔹 Customized commission calculation models based on yearly targets and quarterly slabs.
+
+🔹 Configured automated email & WhatsApp alerts with dynamic stock reporting.
+
+🔹 Enhanced product configurator workflows with alternate and optional product logic.
+
+### Tech Used
+
+- Odoo
+- Python
+- PostgreSQL
+- QWeb
+- JavaScript
+
+---
+
+# 📧 Canna – Mass Mailing & Media Management
+
+Scalable email marketing & media management platform customization.
+
+🔹 Developed company-specific email marketing templates with analytics dashboards.
+
+🔹 Built CRON-based email validation workflows integrated with Drupal.
+
+🔹 Reduced email bounce rates and improved campaign deliverability.
+
+🔹 Engineered reusable Odoo widgets & dynamic email snippet editors.
+
+### Tech Used
+
+- Odoo
+- PostgreSQL
+- JavaScript
+- Drupal
 
 ---
 
 # 🏆 Achievements
 
 - 🥇 Best Performer of the Year — Webkul
-- 🏅 Perfect Customization Badge
 - 🚀 Migrated 150+ Odoo Modules
 - ⚡ Built 20+ Enterprise Custom Modules
-- 🤖 Built AI-powered Email Marketing Studio for Odoo
-- 📧 Integrated 300+ AI models into ERP workflows
+- 🤖 Built AI-powered ERP & Email Marketing Solutions
 - 📈 Improved ORM & PostgreSQL query performance
+- 📧 Integrated AI workflows into enterprise ERP systems
 
 ---
 
@@ -265,6 +233,7 @@ Integrated enterprise communication systems with ERP workflows.
 - QWeb Reports
 - OWL JS
 - Module Migration (v17/v18/v19)
+- ERP Workflow Automation
 
 ---
 
