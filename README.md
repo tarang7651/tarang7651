@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Odoo+ERP+Developer;Python+Backend+Engineer;Django+Developer;REST+API+Specialist;PostgreSQL+Developer;SaaS+Builder)](https://git.io/typing-svg)
 
-🚀 Odoo ERP Developer | Django Backend Engineer | PostgreSQL | REST APIs | SaaS Systems
+### 🚀 Odoo ERP Developer | Django Backend Engineer | AI-Powered SaaS Systems
 
 ![](https://komarev.com/ghpvc/?username=tarang7651&color=blue)
 
@@ -15,14 +15,14 @@
 # 🚀 About Me
 
 - 💼 3.1+ Years of Experience in Odoo & Python Development
-- 🔥 Specialized in Odoo v17 → v19 Migration & Customization
+- 🔥 Specialized in Odoo v17 → v19 Migration & Enterprise Customization
 - ⚡ Backend Engineer focused on scalable ERP & SaaS systems
 - 🛠 Experienced in Django, DRF, PostgreSQL & API Integrations
-- 🤖 Worked with OpenAI GPT, WhatsApp APIs, Postmark & 3CX VoIP
-- 📈 Optimized PostgreSQL & ORM queries for enterprise applications
+- 🤖 Worked with OpenAI GPT, OpenRouter, WhatsApp APIs, Postmark & 3CX VoIP
+- 📈 Optimized PostgreSQL & ORM queries for enterprise-scale applications
 - 🏭 Built manufacturing workflows according to client-specific requirements
-- 🏥 Worked on Health Management Systems with custom enterprise workflows
-- 🎯 Passionate about backend architecture & automation systems
+- 🏥 Worked on enterprise Health Management Systems
+- 🎯 Passionate about backend architecture, automation & AI systems
 
 ---
 
@@ -32,11 +32,19 @@
   <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux,docker,git,js,vscode" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenRouter-AI-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+</p>
+
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## Visitor Management System (VMS)
+---
+
+# 🏢 Visitor Management System (VMS)
 
 A backend-powered Visitor Management System built using Django, Django REST Framework, and PostgreSQL.
 
@@ -92,9 +100,7 @@ GET /api/visitors/
 
 ---
 
-# 🤖 Featured Odoo AI Project
-
-## OpenRouter Mail AI Studio
+# 🤖 OpenRouter Mail AI Studio
 
 An AI-powered email generation & marketing enhancement platform built for Odoo using OpenRouter integration.
 
@@ -105,6 +111,7 @@ https://github.com/tarang7651/openrouter_mail_ai
 
 # 🎥 Project Walkthrough
 https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
+
 ---
 
 ## ✨ Features
@@ -112,7 +119,7 @@ https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
 - ✨ AI-powered email template generation
 - 📧 Smart campaign generation inside Email Marketing
 - 🔀 Support for 300+ OpenRouter AI models
-- 🎯 Multiple tone selections:
+- 🎯 Multiple tone selections
 - ⚙️ Centralized API configuration in Odoo Settings
 - 🖼 Dynamic marketing images using Unsplash API
 - 🧠 AI-enhanced mail compose experience
@@ -143,14 +150,14 @@ https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
 - DeepSeek
 - Llama
 - Mistral
-- And 300+ models through OpenRouter
+- 300+ OpenRouter models
 
 ---
 
 ## ⚡ Enterprise Use Cases
 
 - AI-powered email marketing
-- Automated campaign creation
+- Automated campaign generation
 - Smart sales outreach
 - ERP-integrated content generation
 - AI-assisted customer engagement
@@ -166,20 +173,9 @@ https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
     'version': '1.0.0',
     'category': 'Marketing/Email Marketing',
     'summary': 'Generate AI-powered email templates via OpenRouter inside Mail Composer & Email Marketing',
-    'description': """
-        OpenRouter Mail AI Studio
-        ============================
-        Integrate 300+ AI models into Odoo's mail composer and email marketing module.
-
-        Features:
-        - ✨ Generate email templates with AI directly from the mail compose window
-        - 📧 Generate & enhance campaigns inside Email Marketing
-        - 🔀 Switch between any OpenRouter model (GPT-4o, Claude, Gemini, Llama, etc.)
-        - 🎯 Choose tone: Professional, Casual, Formal, Persuasive, Empathetic
-        - ⚙️ Centralized API key & default model configuration in Settings
-    """,
 }
 ```
+
 ---
 
 # 🔒 Enterprise Experience
@@ -189,6 +185,7 @@ https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
 Worked on a healthcare management solution customized according to client-specific business requirements.
 
 ### Features
+
 - Patient management workflows
 - Appointment handling
 - Medical record management
@@ -196,6 +193,7 @@ Worked on a healthcare management solution customized according to client-specif
 - Custom reports & automation
 
 ### Tech Used
+
 - Odoo
 - Python
 - PostgreSQL
@@ -208,6 +206,7 @@ Worked on a healthcare management solution customized according to client-specif
 Developed and customized manufacturing workflows according to client business requirements.
 
 ### Work Included
+
 - Production workflow customization
 - Inventory & warehouse integration
 - BOM management
@@ -215,6 +214,7 @@ Developed and customized manufacturing workflows according to client business re
 - Dynamic reports & dashboards
 
 ### Tech Used
+
 - Odoo
 - Python
 - PostgreSQL
@@ -228,6 +228,7 @@ Developed and customized manufacturing workflows according to client business re
 Integrated enterprise communication systems with ERP workflows.
 
 ### Highlights
+
 - Auto lead generation from incoming calls
 - CRM synchronization
 - Webhook integrations
@@ -235,6 +236,7 @@ Integrated enterprise communication systems with ERP workflows.
 - Call metadata tracking
 
 ### Integrations
+
 - 3CX VoIP
 - WhatsApp APIs
 - OpenAI GPT
@@ -248,7 +250,9 @@ Integrated enterprise communication systems with ERP workflows.
 - 🏅 Perfect Customization Badge
 - 🚀 Migrated 150+ Odoo Modules
 - ⚡ Built 20+ Enterprise Custom Modules
-- 📈 Improved report performance through ORM & PostgreSQL optimization
+- 🤖 Built AI-powered Email Marketing Studio for Odoo
+- 📧 Integrated 300+ AI models into ERP workflows
+- 📈 Improved ORM & PostgreSQL query performance
 
 ---
 
@@ -277,6 +281,7 @@ Integrated enterprise communication systems with ERP workflows.
 ## 🔹 Integrations
 
 - OpenAI GPT
+- OpenRouter
 - WhatsApp APIs
 - Postmark
 - 3CX VoIP
@@ -317,6 +322,6 @@ Integrated enterprise communication systems with ERP workflows.
 
 <div align="center">
 
-### ⭐ Building scalable ERP & backend systems with Python.
+### ⭐ Building scalable ERP, AI & backend systems with Python.
 
 </div>
