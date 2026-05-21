@@ -92,6 +92,96 @@ GET /api/visitors/
 
 ---
 
+# 🤖 Featured Odoo AI Project
+
+## OpenRouter Mail AI Studio
+
+An AI-powered email generation & marketing enhancement platform built for Odoo using OpenRouter integration.
+
+This module integrates **300+ AI models** directly into Odoo Mail Composer & Email Marketing workflows, enabling businesses to generate high-converting email templates using modern LLMs like GPT-4o, Claude, Gemini, and Llama.
+
+🔗 Repository  
+https://github.com/tarang7651/openrouter_mail_ai
+
+# 🎥 Project Walkthrough
+https://github.com/user-attachments/assets/8c602dcc-a40c-4891-8fde-98555569711d
+---
+
+## ✨ Features
+
+- ✨ AI-powered email template generation
+- 📧 Smart campaign generation inside Email Marketing
+- 🔀 Support for 300+ OpenRouter AI models
+- 🎯 Multiple tone selections:
+- ⚙️ Centralized API configuration in Odoo Settings
+- 🖼 Dynamic marketing images using Unsplash API
+- 🧠 AI-enhanced mail compose experience
+- 🎨 Styled HTML email generation
+- 🚀 Built for scalable SaaS & ERP workflows
+
+---
+
+## 🛠 Tech Used
+
+- Odoo
+- Python
+- OWL JS
+- PostgreSQL
+- OpenRouter API
+- Unsplash API
+- REST APIs
+- QWeb
+- JavaScript
+
+---
+
+## 🔥 Supported AI Models
+
+- GPT-4o
+- Claude
+- Gemini
+- DeepSeek
+- Llama
+- Mistral
+- And 300+ models through OpenRouter
+
+---
+
+## ⚡ Enterprise Use Cases
+
+- AI-powered email marketing
+- Automated campaign creation
+- Smart sales outreach
+- ERP-integrated content generation
+- AI-assisted customer engagement
+- Marketing workflow automation
+
+---
+
+## 🧩 Odoo Module Information
+
+```python
+{
+    'name': 'OpenRouter Mail AI Studio',
+    'version': '1.0.0',
+    'category': 'Marketing/Email Marketing',
+    'summary': 'Generate AI-powered email templates via OpenRouter inside Mail Composer & Email Marketing',
+    'description': """
+        OpenRouter Mail AI Studio
+        ============================
+        Integrate 300+ AI models into Odoo's mail composer and email marketing module.
+
+        Features:
+        - ✨ Generate email templates with AI directly from the mail compose window
+        - 📧 Generate & enhance campaigns inside Email Marketing
+        - 🔀 Switch between any OpenRouter model (GPT-4o, Claude, Gemini, Llama, etc.)
+        - 🎯 Choose tone: Professional, Casual, Formal, Persuasive, Empathetic
+        - ⚙️ Centralized API key & default model configuration in Settings
+    """,
+}
+```
+---
+
 # 🔒 Enterprise Experience
 
 ## 🏥 Health Management System
