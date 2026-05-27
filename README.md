@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Odoo+ERP+Developer;Python+Backend+Engineer;Django+Developer;AI+Workflow+Automation+Specialist;REST+API+Engineer)](https://git.io/typing-svg)
 
-### 🚀 Odoo ERP Developer | Backend Engineer | AI Workflow Automation Specialist
+### 🚀 Python Developer | AI Workflow Automation Specialist | Odoo ERP Developer | Backend Engineer 
 
 ![](https://komarev.com/ghpvc/?username=tarang7651&color=blue)
 
