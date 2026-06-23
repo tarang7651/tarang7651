@@ -39,6 +39,37 @@
 
 # 🚀 Featured Projects
 
+# 🤖 Agentic RAG Chatbot
+
+An intelligent, stateful AI assistant built with **LangGraph**, **LangChain**, and **Streamlit**. This application features a sleek web interface and supports Retrieval-Augmented Generation (RAG) by allowing users to upload PDF documents and seamlessly interact with their contents.
+
+🔗 Repository  
+https://github.com/tarang7651/langgraph-rag-chatbot
+
+# 🎥 Project Walkthrough
+[Screencast from 2026-06-24 00-57-41.webm](https://github.com/user-attachments/assets/fcced4d7-8d68-4a8b-a79e-a0b98730091c)
+
+
+---
+
+## ✨ Features
+
+- **Stateful Conversation**: Powered by LangGraph's state machine (`StateGraph`) and `InMemorySaver` to maintain chat history and thread persistence.
+- **Retrieval-Augmented Generation (RAG)**: Upload any PDF document on the fly. The system chunks, embeds, and indexes the document using **FAISS** and **HuggingFace Embeddings** to provide highly relevant context for answers.
+- **Local AI Inference**: Support for Ollama to run models locally or on dedicated endpoints, ensuring privacy and robust inference.
+- **Modern User Interface**: A responsive, clean, and interactive chat UI built with Streamlit, custom CSS, and a document upload sidebar.
+
+### Tech Used
+
+- Python
+- LangChain / LangGraph
+- Streamlit
+- FAISS
+- Ollama
+- HuggingFace
+
+---
+
 # 🤖 AI-Powered Odoo Integration Suite
 
 AI-driven ERP enhancement platform built using Odoo, Python, OpenAI GPT & SpeechRecognition.
