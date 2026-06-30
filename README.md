@@ -47,7 +47,8 @@ An intelligent, stateful AI assistant built with **LangGraph**, **LangChain**, a
 https://github.com/tarang7651/langgraph-rag-chatbot
 
 # 🎥 Project Walkthrough
-[Screencast from 2026-06-24 00-57-41.webm](https://github.com/user-attachments/assets/fcced4d7-8d68-4a8b-a79e-a0b98730091c)
+[langgrraph-rag-chatbot.webm](https://github.com/user-attachments/assets/09a2ce0c-628e-4afe-ae07-8541510c86e3)
+
 
 
 ---
