@@ -39,35 +39,39 @@
 
 # 🚀 Featured Projects
 
-# 🤖 Agentic RAG Chatbot
+# 🤖 Agentic AI Chatbot
 
-An intelligent, stateful AI assistant built with **LangGraph**, **LangChain**, and **Streamlit**. This application features a sleek web interface and supports Retrieval-Augmented Generation (RAG) by allowing users to upload PDF documents and seamlessly interact with their contents.
+An intelligent, stateful AI assistant built with **Django**, **LangGraph**, and **LangChain**. This application features a modern web interface and combines **Retrieval-Augmented Generation (RAG)** with **Model Context Protocol (MCP)** integrations, enabling users to interact with documents, external tools, and multiple LLM providers through a single conversational interface.
 
 🔗 Repository  
-https://github.com/tarang7651/langgraph-rag-chatbot
+https://github.com/tarang7651/lg_django_chatbot
 
 # 🎥 Project Walkthrough
-[langgrraph-rag-chatbot.webm](https://github.com/user-attachments/assets/09a2ce0c-628e-4afe-ae07-8541510c86e3)
-
-
+https://tarang7651.github.io/assets/langgrraph-rag-chatbot.mp4
 
 ---
 
 ## ✨ Features
 
-- **Stateful Conversation**: Powered by LangGraph's state machine (`StateGraph`) and `InMemorySaver` to maintain chat history and thread persistence.
-- **Retrieval-Augmented Generation (RAG)**: Upload any PDF document on the fly. The system chunks, embeds, and indexes the document using **FAISS** and **HuggingFace Embeddings** to provide highly relevant context for answers.
-- **Local AI Inference**: Support for Ollama to run models locally or on dedicated endpoints, ensuring privacy and robust inference.
-- **Modern User Interface**: A responsive, clean, and interactive chat UI built with Streamlit, custom CSS, and a document upload sidebar.
+- **Stateful Agent Workflows**: Built with **LangGraph** to maintain conversation state, memory, and intelligent multi-step reasoning.
+- **Retrieval-Augmented Generation (RAG)**: Upload and query documents using **FAISS** vector search to generate accurate, context-aware responses.
+- **Multiple LLM Providers**: Supports both **Amazon Bedrock** and **Ollama Cloud**, making it easy to switch between foundation models.
+- **MCP Tool Integration**: Connects with external services through **FastMCP**, including **GitHub MCP** and **Atlassian MCP**, enabling the AI assistant to perform real-world actions.
+- **Observability & Debugging**: Integrated with **LangSmith** for tracing, debugging, and monitoring agent execution.
+- **Modern Django Interface**: Responsive web application built with Django, providing a seamless conversational experience and scalable backend architecture.
 
 ### Tech Used
 
 - Python
+- Django
 - LangChain / LangGraph
-- Streamlit
+- Amazon Bedrock
+- Ollama Cloud
+- FastMCP
+- GitHub MCP
+- Atlassian MCP
 - FAISS
-- Ollama
-- HuggingFace
+- LangSmith
 
 ---
 
