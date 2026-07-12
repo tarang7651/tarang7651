@@ -75,6 +75,35 @@ https://tarang7651.github.io/assets/langgrraph-rag-chatbot.mp4
 
 ---
 
+# 🤖 Odoo AI Chatbot
+An intelligent, agentic AI assistant built with **LangChain**, **LangGraph**, and **Odoo OWL**. This module embeds a native AI chatbot directly into the Odoo backend, capable of querying, creating, updating, and managing records on your behalf — all while strictly respecting Odoo's native access rights and security model.
+
+🔗 Repository  
+https://github.com/tarang7651/odoo_ai_chatbot
+
+# 🎥 Project Walkthrough
+https://tarang7651.github.io/assets/odoo_ai_chatbot.mp4
+
+---
+
+## ✨ Features
+- **Universal Systray Integration**: Accessible from anywhere in the Odoo backend via a sleek, modern OWL component.
+- **Agentic Tooling**: Equipped with 6 custom tools — `get_model_schema`, `read_odoo_records`, `create_odoo_record`, `update_odoo_records`, `delete_odoo_records`, and `update_odoo_record_translations` — to dynamically understand and act on your Odoo data.
+- **Strict Security**: Every tool call enforces `check_access` / `check_access_rights`, so the AI can never act beyond the logged-in user's permissions.
+- **Multi-Provider Support**: Switch seamlessly between **Amazon Bedrock** (e.g., Anthropic Claude 3) and **Ollama** (local models like Llama 3) from Odoo Settings.
+- **Contextual Formatting**: Automatically renders Odoo records as clickable HTML links, routing directly to the correct form views (Odoo 17/18/19 compatible).
+
+### Tech Used
+- Python
+- Odoo 17/18/19 API
+- Odoo OWL (JavaScript / SCSS)
+- LangChain / LangGraph
+- Amazon Bedrock
+- Ollama
+- Boto3
+
+---
+
 # 🤖 AI-Powered Odoo Integration Suite
 
 AI-driven ERP enhancement platform built using Odoo, Python, OpenAI GPT & SpeechRecognition.
